@@ -16,7 +16,7 @@ export default HeaderComponente
 
 const styles = StyleSheet.create({
     container: {
-        height: 85,
+        height: 75,
         width: "100%",
         alignItems: "center", //Vertical
         justifyContent: "center",
@@ -26,7 +26,6 @@ const styles = StyleSheet.create({
         fontSize: 25,
         fontWeight: "600",
         color: colors.white,
-        marginTop: 30,
         fontFamily: "TiliumBlack"
     }
 })

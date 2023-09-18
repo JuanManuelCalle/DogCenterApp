@@ -17,7 +17,7 @@ const styles = StyleSheet.create({
   },
   textHome: {
     fontSize: 30,
-    fontFamily: "TiliumBold",
+    fontFamily: "TiliumLight",
     color: colors.moradoOscuro
   }
 });
